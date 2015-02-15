@@ -1,0 +1,31 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{tfrupee}  
+%opening
+\title{Inter-IIT Radio Telescope \\ Log}
+\author{IIT Bombay}
+\date{}
+
+\begin{document}
+
+\maketitle
+\begin{itemize}
+ \item \texttt{14th February 2015 \\ Sandesh Kalantre, Kumar Ayush}
+ We went to Lemington road in the morning and brought the following items which will
+ be used in the preliminary stage of the project.
+ \begin{center}
+  \begin{tabular}{| l | l |}
+   \hline
+   Item & Cost(\rupee) \\
+   \hline
+   $60$cm Radio Dish & 
+  \end{tabular}
+
+ \end{center}
+
+\end{itemize}
+
+
+
+
+\end{document}
